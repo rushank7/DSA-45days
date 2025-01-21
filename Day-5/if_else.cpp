@@ -11,7 +11,7 @@ int main() {
         cout << "Grade : E" <<endl;
     } else if (marks = 50 && marks == 61) {
             cout << "Grade C" <<endl;
-    } else {cout << "Grade : << grade x" << std::endl;   
+    } else {cout << "passed with 900k salary job netto" << std::endl;   
     }   
     return 0;
 }
