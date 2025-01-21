@@ -9,13 +9,10 @@ int main() {
         cout << "Grade :F" <<endl;
     } else if (marks >= 25 && marks <= 44) {
         cout << "Grade : E" <<endl;
-        else if (marks = 50 && marks == 61) {
+    } else if (marks = 50 && marks == 61) {
             cout << "Grade C" <<endl;
-        else {cout << "Grade : << grade << std::endl";   
-        }
-    }
-    }
-
+    } else {cout << "Grade : << grade x" << std::endl;   
+    }   
     return 0;
 }
 
